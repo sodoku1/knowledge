@@ -21,3 +21,4 @@
 - [Solving Sudoku with Poetry's dependency resolver (2022)](https://www.splitgraph.com/blog/poetry-dependency-resolver-sudoku) ([Lobsters](https://lobste.rs/s/ovsdgc/solving_sudoku_with_poetry_s_dependency))
 - [Sophisticated sudokus as playful proof practice (2022)](https://probablydance.com/2022/06/12/sophisticated-sudokus-as-playful-proof-practice/) ([HN](https://news.ycombinator.com/item?id=31722540))
 - [Sudoku, Go and WebAssembly (2022)](https://eli.thegreenplace.net/2022/sudoku-go-and-webassembly/)
+- [Solve any sudoku puzzle you want here with one click](https://sodokusolver.com)
